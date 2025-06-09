@@ -44,32 +44,11 @@ This project analyzes 24 months of sales data to uncover business insights and b
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/abdallahsira/sales-performance-prediction.git
-cd sales-performance-prediction
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the scripts in `notebooks/` folder:
-```bash
-python notebooks/data_exploration.py
-python notebooks/data_visualization.py
-python notebooks/ridge_regression_analysis.py
-```
-
----
 
 ## 📷 Sample Visuals
 
-> Add PNG visualizations to `outputs/` and embed them here using:
-> `![Alt text](outputs/your_chart.png)`
+![correlation_matrix](https://github.com/user-attachments/assets/38bd2f66-a89a-428b-9501-ff92c3fcdf66)
+
 
 ---
 
