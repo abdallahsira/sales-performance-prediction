@@ -48,6 +48,9 @@ This project analyzes 24 months of sales data to uncover business insights and b
 ## 📷 Sample Visuals
 
 ![correlation_matrix](https://github.com/user-attachments/assets/38bd2f66-a89a-428b-9501-ff92c3fcdf66)
+![sales_by_season](https://github.com/user-attachments/assets/260a628b-6101-47d9-9946-42c77c1400b1)
+![marketing_vs_sales](https://github.com/user-attachments/assets/a709158a-e866-4d6c-b113-e2c7cfc9820a)
+![ridge_coefficients](https://github.com/user-attachments/assets/bff534e9-89c6-4509-838e-3e4c6684dff3)
 
 
 ---
