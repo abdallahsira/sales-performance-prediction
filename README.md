@@ -30,8 +30,6 @@ This project analyzes 24 months of sales data to uncover business insights and b
 ├── notebooks/              # Python scripts for analysis & modeling
 ├── outputs/                # Charts & graphs
 ├── final_report.md         # Full project report and insights
-├── requirements.txt        # Python dependencies
-└── README.md               # Project overview (this file)
 ```
 
 ---
